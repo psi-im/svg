@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+	<meta>
+		<name>Oxygen_SVG</name>
+		<version>0.1.2</version>
+		<description>KDE4_theme</description>
+		<creation>2020-5-5</creation>
+		<home>http://rischiocinico.altervista.org/</home>
+		<author jid='xmpp:rischiocinico@user-properties.svg.systemli.org'>Rischio Cinico</author>
+	</meta>
+    
+    <icon>
+		<x xmlns='name'>psi/appearance</x>
+		<object mime='image/svg+xml'>preferences/preferences-desktop-color.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/account</x>
+		<object mime='image/svg+xml'>preferences/user-properties.svg</object>
+	</icon>
+	
+    <icon>
+		<x xmlns='name'>psi/action_direct_presence</x>
+		<object mime='image/svg+xml'>send/preferences-desktop-user.svg</object>
+	</icon>
+
+    <icon>
+		<x xmlns='name'>psi/statusmsg</x>
+		<object mime='image/svg+xml'>common/dialog-information.svg</object>
+	</icon>
+
+    <icon>
+		<x xmlns='name'>psi/addContact</x>
+		<object mime='image/svg+xml'>users/list-add-user.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/add</x>
+		<object mime='image/svg+xml'>common/list-add.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/arrowUp</x>
+		<object mime='image/svg+xml'>common/arrow-up.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/arrowDown</x>
+		<object mime='image/svg+xml'>common/arrow-down.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/arrowLeft</x>
+		<object mime='image/svg+xml'>common/arrow-left.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/arrowRight</x>
+		<object mime='image/svg+xml'>common/arrow-right.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/profile</x>
+		<object mime='image/svg+xml'>main/system-switch-user.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/clearChat</x>
+		<object mime='image/svg+xml'>common/draw-eraser.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/compact</x>
+		<object mime='image/svg+xml'>common/dialog-ok.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/default_avatar</x>
+		<object mime='image/svg+xml'>edit-image-face-detect.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/disco</x>
+		<object mime='image/svg+xml'>tools/edit-web-search.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/events</x>
+		<object mime='image/svg+xml'>common/dialog-warning.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/groupChat</x>
+		<object mime='image/svg+xml'>groupchats/system-users.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/help</x>
+		<object mime='image/svg+xml'>main/help-contextual.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/history</x>
+		<object mime='image/svg+xml'>common/view-history.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/manageContact</x>
+		<object mime='image/svg+xml'>empty.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/notification_chat_delivery_ok</x>
+		<object mime='image/svg+xml'>chat/notification_chat_delivered.svg</object>
+        
+	</icon>
+    	<icon>
+		<x xmlns='name'>psi/notification_chat_info</x>
+        <object mime='image/svg+xml'>common/dialog-information.svg</object>
+
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/notification_chat_receive</x>
+		<object mime='image/svg+xml'>chat/notification_chat_receive.svg</object>
+	</icon>
+    
+    	<icon>
+		<x xmlns='name'>psi/notification_chat_send</x>
+		<object mime='image/svg+xml'>chat/notification_chat_send.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/notification_chat_time</x>
+		<object mime='image/svg+xml'>clock.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/notification_chat_delivery_ok_pgp</x>
+		<object mime='image/svg+xml'>chat/notification_chat_delivered.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/notification_chat_receive_pgp</x>
+		<object mime='image/svg+xml'>chat/notification_chat_receive_pgp.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/notification_chat_send_pgp</x>
+		<object mime='image/svg+xml'>chat/notification_chat_send_pgp.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/action_muc_hide</x>
+		<object mime='image/svg+xml'>groupchats/window-suppressed.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/action_muc_leave</x>
+		<object mime='image/svg+xml'>groupchats/user-group-delete.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/action_muc_show</x>
+		<object mime='image/svg+xml'>groupchats/window-new.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/action_templates</x>
+		<object mime='image/svg+xml'>common/document-multiple.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/action_templates_edit</x>
+		<object mime='image/svg+xml'>common/document-edit.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/shortcuts</x>
+		<object mime='image/svg+xml'>preferences/configure-shortcuts.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/vCard</x>
+		<object mime='image/svg+xml'>users/view-pim-contacts.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/jabber</x>
+		<object mime='image/svg+xml'>im-jabber.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/options</x>
+		<object mime='image/svg+xml'>preferences/configure.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/roster_icon</x>
+        <object mime='image/svg+xml'>preferences/preferences-contact-list.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/toolbars</x>
+		<object mime='image/svg+xml'>preferences/configure-toolbars.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/configure-room</x>
+		<object mime='image/svg+xml'>groupchats/user-group-properties.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/keys64</x>
+		<object mime='image/svg+xml'>encryption/preferences-desktop-cryptography.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/pgp</x>
+		<object mime='image/svg+xml'>encryption/preferences-desktop-cryptography.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/gpg-yes</x>
+		<object mime='image/svg+xml'>encryption/gpg-yes.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/gpg-no</x>
+		<object mime='image/svg+xml'>encryption/gpg-no.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/keyBad</x>
+		<object mime='image/svg+xml'>encryption/gpg-bad.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/keyUnknown</x>
+		<object mime='image/svg+xml'>encryption/gpg-unknown.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/playSounds</x>
+		<object mime='image/svg+xml'>preferences/preferences-desktop-sound.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/voice</x>
+		<object mime='image/svg+xml'>chat/call-start.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/main</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/quit</x>
+		<object mime='image/svg+xml'>main/application-exit.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/register</x>
+		<object mime='image/svg+xml'>common/dialog-password.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/reload</x>
+		<object mime='image/svg+xml'>common/view-refresh.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/stop</x>
+		<object mime='image/svg+xml'>users/process-stop.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/remove</x>
+		<object mime='image/svg+xml'>common/trash-empty.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/search</x>
+		<object mime='image/svg+xml'>common/edit-find.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/status</x>
+		<object mime='image/svg+xml'>games-hint.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/sendMessage</x>
+		<object mime='image/svg+xml'>send/mail-message.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/start-chat</x>
+		<object mime='image/svg+xml'>view-conversation-balloon.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/cryptoYes</x>
+		<object mime='image/svg+xml'>encryption/document-encrypt.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/cryptoNo</x>
+		<object mime='image/svg+xml'>encryption/document-decrypt.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/time</x>
+		<object mime='image/svg+xml'>clock.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/www</x>
+		<object mime='image/svg+xml'>preferences-web-browser-shortcuts.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/xml</x>
+		<object mime='image/svg+xml'>tools/utilities-terminal.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/logo_16</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/logo_32</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/logo_48</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/logo_64</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/logo_128</x>
+		<object mime='image/svg+xml'>logos/psi.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/logo</x>
+		<object mime='image/png'>logos/psilogo.png</object>
+	</icon>	
+    
+    <icon>
+		<x xmlns='name'>psi/gst_logo</x>
+		<object mime='image/svg+xml'>logos/gstreamer-logo.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/smile</x>
+		<object mime='image/svg+xml'>chat/smile.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/email</x>
+		<object mime='image/svg+xml'>send/mail-send.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/ok</x>
+		<object mime='image/svg+xml'>common/dialog-ok.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/done</x>
+		<object mime='image/svg+xml'>common/dialog-close.svg</object> <!-- TODO: change icon -->
+	</icon>
+
+    <icon>
+		<x xmlns='name'>psi/closetab</x>
+		<object mime='image/svg+xml'>chat/tab-close.svg</object> 
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/cancel</x>
+		<object mime='image/svg+xml'>common/dialog-cancel.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/close</x>
+		<object mime='image/svg+xml'>common/dialog-close.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/apply</x>
+		<object mime='image/svg+xml'>common/dialog-ok-apply.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/info</x>
+		<object mime='image/svg+xml'>common/dialog-information.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/tip</x>
+		<object mime='image/svg+xml'>help-hint.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/browse</x>
+		<object mime='image/svg+xml'>folder-open.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/play</x>
+		<object mime='image/svg+xml'>chat/media-playback-start.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/eye</x>
+		<object mime='image/svg+xml'>users/layer-visible-on.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/upload</x>
+		<object mime='image/svg+xml'>send/mail-attachment.svg</object>
+	</icon>
+
+    <icon>
+		<x xmlns='name'>psi/share_file</x>
+		<object mime='image/svg+xml'>send/mail-folder-outbox.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/download</x>
+		<object mime='image/svg+xml'>download.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/filemanager</x>
+		<object mime='image/svg+xml'>tools/system-file-manager.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/command</x>
+		<object mime='image/svg+xml'>code-context.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/action_button_send</x>
+		<object mime='image/svg+xml'>send/key-enter.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/autojid</x>
+		<object mime='image/svg+xml'>chat/tools-wizard.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/ignore_global_actions</x>
+		<object mime='image/svg+xml'>applications-development-web.svg</object>
+	</icon>
+    
+        
+    <!-- FIXME -->
+
+    <icon>
+		<x xmlns='name'>psi/roster</x>
+		<object mime='image/svg+xml'>preferences-web-browser-shortcuts.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/plugins</x>
+        <object mime='image/svg+xml'>preferences/preferences-plugin.svg</object>
+  
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/advanced</x>
+		<object mime='image/svg+xml'>preferences/preferences-other.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/advanced-plus</x>
+		<object mime='image/svg+xml'>preferences/run-build-configure.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/avcall</x>
+		<object mime='image/svg+xml'>chat/call-start.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/bookmarks</x>
+		<object mime='image/svg+xml'>groupchats/bookmarks-organize.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/show_self</x>
+		<object mime='image/svg+xml'>main/user-identity.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/show_offline</x>
+		<object mime='image/svg+xml'>roster/user-offline.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/show_away</x>
+		<object mime='image/svg+xml'>roster/user-away.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/show_hidden</x>
+		<object mime='image/svg+xml'>roster/user-invisible.svg</object>
+	</icon>
+	
+	<icon>
+		<x xmlns='name'>psi/publishTune</x>
+		<object mime='image/svg+xml'>audio-volume-high.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/save</x>
+		<object mime='image/svg+xml'>common/document-save.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/export</x>
+		<object mime='image/svg+xml'>common/document-export.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/import</x>
+		<object mime='image/svg+xml'>common/document-import.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/throbber</x>
+		<x xmlns='type'>animation</x>
+		<object mime='image/png'>throbber.png</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/text</x>
+        <object mime='image/svg+xml'>chat/preferences-desktop-font.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/enable-groups</x>
+		<object mime='image/svg+xml'>main/view-group.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/bookmark_add</x>
+		<object mime='image/svg+xml'>star-gray.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/bookmark_remove</x>
+		<object mime='image/svg+xml'>star.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>pep/geolocation</x>
+		<object mime='image/svg+xml'>applications-internet.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>pep/activities</x>
+		<object mime='image/svg+xml'>applications-toys.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>pep/mood</x>
+        <object mime='image/svg+xml'>help-feedback.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>pep/tune</x>
+		<object mime='image/svg+xml'>media-optical-audio.svg</object>
+	</icon>
+    
+    <!-- Whiteboarding -->
+
+    <icon>
+		<x xmlns='name'>psi/whiteboard</x>
+		<object mime='image/svg+xml'>whiteboarding/applications-education.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/saveBoard</x>
+        <object mime='image/svg+xml'>common/document-save.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/select</x>
+		<object mime='image/svg+xml'>whiteboarding/edit-select.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/translate</x>
+		<object mime='image/svg+xml'>whiteboarding/transform-move.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/rotate</x>
+		<object mime='image/svg+xml'>whiteboarding/transform-rotate.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/scale</x>
+		<object mime='image/svg+xml'>whiteboarding/transform-scale.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/scroll</x>
+		<object mime='image/svg+xml'>whiteboarding/preferences-system-windows-move.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/erase</x>
+		<object mime='image/svg+xml'>common/draw-eraser.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/drawPaths</x>
+		<object mime='image/svg+xml'>whiteboarding/draw-path.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/drawLines</x>
+		<object mime='image/svg+xml'>whiteboarding/draw-line.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/drawEllipses</x>
+		<object mime='image/svg+xml'>whiteboarding/draw-ellipse.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/drawCircles</x>
+		<object mime='image/svg+xml'>whiteboarding/draw-circle.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/drawRectangles</x>
+		<object mime='image/svg+xml'>whiteboarding/draw-rectangle.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/addText</x>
+		<object mime='image/svg+xml'>whiteboarding/insert-text.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/addImage</x>
+		<object mime='image/svg+xml'>whiteboarding/insert-image.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/bringForwards</x>
+		<object mime='image/svg+xml'>whiteboarding/object-order-front.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/bringToFront</x>
+		<object mime='image/svg+xml'>whiteboarding/object-order-front.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/sendBackwards</x>
+		<object mime='image/svg+xml'>whiteboarding/object-order-back.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/sendToBack</x>
+		<object mime='image/svg+xml'>whiteboarding/object-order-back.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/group</x>
+		<object mime='image/svg+xml'>whiteboarding/object-group.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/ungroup</x>
+		<object mime='image/svg+xml'>whiteboarding/object-ungroup.svg</object>
+	</icon>
+    
+	<!-- End whiteboarding -->
+    
+	<icon>
+		<x xmlns='name'>psi/action_contacts_manager</x>
+		<object mime='image/svg+xml'>tools/x-office-address-book.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/cm_check</x>
+		<object mime='image/svg+xml'>common/checkbox.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/cm_invertcheck</x>
+		<object mime='image/svg+xml'>common/checkbox-invert.svg</object>
+	</icon>
+
+    <icon>
+		<x xmlns='name'>psi/cm_uncheck</x>
+		<object mime='image/svg+xml'>common/checkbox2.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/cm_export</x>
+		<object mime='image/svg+xml'>common/document-export.svg</object>
+	</icon>
+
+	<icon>
+		<x xmlns='name'>psi/cm_import</x>
+		<object mime='image/svg+xml'>common/document-import.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/xmpp</x>
+		<object mime='image/svg+xml'>logos/xmpp.svg</object>
+	</icon>
+    
+    <icon>
+		<x xmlns='name'>psi/mic</x>
+		<object mime='image/svg+xml'>chat/media-record.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/pin</x>
+		<object mime='image/svg+xml'>chat/knotes.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/action_paste_and_send</x>
+		<object mime='image/svg+xml'>common/edit-paste.svg</object>
+	</icon>
+    
+	<icon>
+		<x xmlns='name'>psi/mic_rec</x>
+		<object mime='image/svg+xml'>chat/audio-input-microphone.svg</object>
+	</icon>
+ 
+    	<icon>
+		<x xmlns='name'>psi/rename</x>
+		<object mime='image/svg+xml'>common/edit-rename.svg</object>
+	</icon>
+    
+    </icondef>
