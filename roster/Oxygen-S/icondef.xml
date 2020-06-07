@@ -59,38 +59,38 @@
 
 	<icon>
 		<x xmlns='name'>status/error</x>
-		<object mime='image/xvg+xml'>perr.svg</object>
+		<object mime='image/svg+xml'>perr.svg</object>
 	</icon>
 
 	<!-- Special icons -->
 	<icon>
 		<x xmlns='name'>psi/chat</x>
-		<object mime='image/xvg+xml'>chat.svg</object>
+		<object mime='image/svg+xml'>chat.svg</object>
 	</icon>
 
 	<icon>
 		<x xmlns='name'>psi/message</x>
-		<object mime='image/xvg+xml'>message.svg</object>
+		<object mime='image/svg+xml'>message.svg</object>
 	</icon>
 
 	<icon>
 		<x xmlns='name'>psi/file</x>
-		<object mime='image/xvg+xml'>file.svg</object>
+		<object mime='image/svg+xml'>file.svg</object>
 	</icon>
 
 	<icon>
 		<x xmlns='name'>psi/system</x>
-		<object mime='image/xvg+xml'>system.svg</object>
+		<object mime='image/svg+xml'>system.svg</object>
 	</icon>
 
 	<icon>
 		<x xmlns='name'>psi/connect</x>
-		<object mime='image/xvg+xml'>connect.svg</object>
+		<object mime='image/svg+xml'>connect.svg</object>
 	</icon>
 	
 	<icon>
 		<x xmlns='name'>psi/typing</x>
-		<object mime='image/xvg+xml'>typing.svg</object>
+		<object mime='image/svg+xml'>typing.svg</object>
 	</icon>
 
 </icondef>
