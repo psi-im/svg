@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+        <meta>
+                <name>Psi Default Fingerprint - size 16</name>
+                <version>1.0</version>
+                <creation>2017-05-01</creation>
+                <home>https://psi-im.org/</home>
+                <author email='maksim.maj@gmail.com'>maj</author>
+                <author email='vladimir.shelukhin@gmail.com'>zet</author>
+                <author email='rion4ik@gmail.com'>rion</author>
+                <description>Default Clients iconpack.
+
+Based on the huge on from Psi+ repository.
+                </description>
+           </meta>
+        <icon>
+                <x xmlns='name'>clients/adium</x>
+                <object mime='image/png'>adium.png</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/bitlbee</x>
+                <object mime='image/svg+xml'>bitlbee.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/bot</x>
+                <object mime='image/png'>bot.png</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/conv6ations</x>
+                <object mime='image/svg+xml'>conv6ations.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/conversations</x>
+                <object mime='image/svg+xml'>conversations.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/dino</x>
+                <object mime='image/svg+xml'>dino.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/isida-bot</x>
+                <object mime='image/svg+xml'>isida-bot.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/gajim</x>
+                <object mime='image/svg+xml'>gajim.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/jtalk</x>
+                <object mime='image/svg+xml'>jtalk.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/kopete</x>
+                <object mime='image/svg+xml'>kopete.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/leechcraft-azoth</x>
+                <object mime='image/svg+xml'>leechcraft-azoth.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/mcabber</x>
+                <object mime='image/png'>mcabber.png</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/miranda</x>
+                <object mime='image/svg+xml'>miranda.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/miranda-ng</x>
+                <object mime='image/svg+xml'>miranda-ng.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/movim</x>
+                <object mime='image/svg+xml'>movim.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/pidgin</x>
+                <object mime='image/svg+xml'>pidgin.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/pix-art</x>
+                <object mime='image/svg+xml'>pix-art.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/poezio</x>
+                <object mime='image/svg+xml'>poezio.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/profanity</x>
+                <object mime='image/svg+xml'>profanity.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/psi</x>
+                <object mime='image/svg+xml'>psi.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/psiplus</x>
+                <object mime='image/svg+xml'>psiplus.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/qip</x>
+                <object mime='image/svg+xml'>qip.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/qutim</x>
+                <object mime='image/svg+xml'>qutim.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/spark</x>
+                <object mime='image/svg+xml'>spark.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/swift</x>
+                <object mime='image/svg+xml'>swift.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/tkabber</x>
+                <object mime='image/svg+xml'>tkabber.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/vacuum</x>
+                <object mime='image/svg+xml'>vacuum.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/vk4xmpp</x>
+                <object mime='image/svg+xml'>vk4xmpp.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/xabber</x>
+                <object mime='image/svg+xml'>xabber.svg</object>
+        </icon>
+
+        <icon>
+                <x xmlns='name'>clients/yaxim</x>
+                <object mime='image/svg+xml'>yaxim.svg</object>
+        </icon>
+
+</icondef>
